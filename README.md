@@ -1,2 +1,3 @@
-# beginning-bioinformatics
-Beginning bioinformatics course code
+Bryce Fumia
+UTA ID: 1002351235
+BIOL5340-001
